@@ -1,0 +1,21 @@
+
+RegExp.prototype.exec()
+Executes a search for a match in its string parameter
+
+2	RegExp.prototype.test()
+Tests for a match in its string parameter
+
+3	RegExp.prototype.match()
+Performs a match to the given string and returns the match result
+
+4	RegExp.prototype.replace()
+Replaces matches in the given string with a new substring
+
+5	RegExp.prototype.search()
+Searches the match in the given string and returns the index the pattern found in the string
+
+6	RegExp.prototype.split()
+Splits the given string into an array by separating the string into substring
+
+7	RegExp.prototype.toString()
+Returns a string representing the specified object. Overrides theObject.prototype.toString() method
