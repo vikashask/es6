@@ -17,7 +17,9 @@ function test() {
 
 test();
 
-/* The let keyword
+
+/* 
+The let keyword
 The main difference between var and let is that let is block scoped, instead of function scoped.
  */
 
