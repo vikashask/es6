@@ -4,14 +4,15 @@
 
 // x => { ... } // one parameter, an identifier
 const squares = [1, 2, 3].map(x => x * x);
-console.log('Square ', squares);
+console.log('Square ', squares);  // [1,4,9]
 
 // (x, y) => { ... } // several parameters
 const param = [
     [1, 2],
     [3, 4]
 ].map(([a, b]) => a + b);
-console.log('param ', param);
+
+console.log('param ', param); // [3,7]
 
 // More expressive closure syntax.
 let fives = [];
