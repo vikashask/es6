@@ -1,5 +1,10 @@
-/* Cleaner data-structure for common algorithms based on maps.
- */
+/* 
+    Cleaner data-structure for common algorithms based on maps.
+    
+    Every symbol value returned from Symbol() is unique. 
+    Symbol('foo') === Symbol('foo'); // false 
+    A symbol value may be used as an identifier for object properties; this is the data type's only purpose.
+*/
 
 let m = new Map();
 let s = Symbol();
