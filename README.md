@@ -1,23 +1,23 @@
 # es6
 
-### 1.New Variables — Creation, Updating and Scoping
-### 2.Function Improvements: Arrows and Default Arguments
-### 3.Template Strings
-### 4.Additional String Improvements
-### 5.Destructuring
-### 6.Iterables & Looping
-### 7.An Array of Array Improvements
-### 8.Say Hello to ...Spread and ...Rest
-### 9.Object Literal Upgrades
-### 10.Promises
-### 11.Symbols
-### 12.Code Quality with ESLint
-### 13.JavaScript Modules and Using npm
-### 14.ES6 Tooling
-### 15.Classes
-### 16.Generators
-### 17.Proxies
-### 18.Sets and WeakSets
-### 19.Map and Weak Map
-### 20.Async + Await Flow Control
-### 21.ES7, ES8 + Beyond
+### New Variables — Creation, Updating and Scoping
+### Function Improvements: Arrows and Default Arguments
+### Template Strings
+### Additional String Improvements
+### Destructuring
+### Iterables & Looping
+### An Array of Array Improvements
+### Say Hello to ...Spread and ...Rest
+### Object Literal Upgrades
+### Promises
+### Symbols
+### Code Quality with ESLint
+### JavaScript Modules and Using npm
+### ES6 Tooling
+### Classes
+### Generators
+### Proxies
+### Sets and WeakSets
+### Map and Weak Map
+### Async + Await Flow Control
+### ES7, ES8 + Beyond
