@@ -1,4 +1,4 @@
-# es6
+# ES6
 
 ### New Variables — Creation, Updating and Scoping
 ### Function Improvements: Arrows and Default Arguments
