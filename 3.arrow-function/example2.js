@@ -8,7 +8,7 @@ var filterData = arrayVal.filter(
 )
 console.log(filterData);
 
-// In Es6
+// In Es6 with arrow function
 var filterData = arrayVal.filter(array=>array % 3 === 0)
 console.log(filterData);
 
