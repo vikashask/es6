@@ -8,11 +8,9 @@ console.log(a, b); //  1 3
 [b, a] = [a, b];
 console.log(a, b); // 3 1
 
-
 // object matching
-var data =  {name:1,id:2};
-var {name,id}=data
+var data = { name: "vikash", id: 2 };
+var { name, id } = data;
 
-console.log(name,'name');
-console.log(id,'id');
-
+console.log(name, "name"); // vikash name
+console.log(id, "id"); // 2 id
