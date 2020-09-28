@@ -1,12 +1,10 @@
-
 1.New Variables — Creation, Updating and Scoping
 2.Function Improvements: Arrows and Default Arguments
 3.Template Strings
 4.Additional String Improvements
 5.Destructuring
 6.Iterables & Looping
-7.An Array of Array Improvements
-8. ...Spread and ...Rest
+7.An Array of Array Improvements 8. ...Spread and ...Rest
 9.Object Literal Upgrades
 10.Promises
 11.Symbols
@@ -20,4 +18,3 @@
 19.Map and Weak Map
 20.Async + Await Flow Control
 21.ES7, ES8 + Beyond
-
