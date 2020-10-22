@@ -23,3 +23,10 @@ var data = ({
 console.log(data.one); // 1
 console.log(data.two.op); // 2
 console.log(data.three); // 3
+
+const { name, age, gender = "m", hairColor: color } = {
+  name: "bob",
+  age: 20,
+  hairColor: "blue",
+};
+console.log(name, age, gender, color);
