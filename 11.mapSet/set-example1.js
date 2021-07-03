@@ -7,5 +7,5 @@ console.log('yahoo has',founder.has("yahoo")); //false
 console.log('google has ',founder.has("google")); //true
 
 for(var [key,value] of founder){
-    console.log(key+' fouded by '+ value);
+    console.log(key+' founded by '+ value);
 }

@@ -2,23 +2,25 @@
 Intuitive and flexible destructuring of Arrays and Objects into individual parameters during function calls.
 */
 
-function f([name, val]) {
+function arrayParamFunction([name, val]) {
   console.log(name, val);
 }
 
-function g({ name: n, val: v }) {
+function objectParamFunctionDefaultValue({ name: n, val: v }) {
   console.log(n, v);
 }
 
-function h({ name, val }) {
+function objectParamFunction({ name, val }) {
   console.log(name, val);
 }
-f(["vikash", 42]); // vikash 42
-g({
+arrayParamFunction(["vikash", 42]); // vikash 42
+
+objectParamFunctionDefaultValue({
   name: "kumar",
   val: 7,
 }); // kumar 7
-h({
+
+objectParamFunction({
   name: "verma",
   val: 42,
 }); // verma 42
